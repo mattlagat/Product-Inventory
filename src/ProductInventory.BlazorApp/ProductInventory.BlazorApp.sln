@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductInventory.BlazorApp"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductInventory.Shared", "..\ProductInventory.Shared\ProductInventory.Shared.csproj", "{9F7F5226-A658-4B03-AA4B-DBC644809914}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductInventory.Api", "..\ProductInventory.Api\ProductInventory.Api.csproj", "{49ED7C67-EF7D-41DB-9079-AFD688D43956}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductInventory.Api", "..\ProductInventory.Api\ProductInventory.Api.csproj", "{49ED7C67-EF7D-41DB-9079-AFD688D43956}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
